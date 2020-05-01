@@ -1,6 +1,4 @@
 import {
-  getTeamNames,
-  numOfPlayers,
   currentTeam,
   currentRound,
   teamOneScore,
@@ -19,8 +17,6 @@ import {
 } from './cardActions/cardActions';
 
 export {
-  getTeamNames,
-  numOfPlayers,
   addCard,
   discardedCards,
   clearDiscardedCards,

@@ -5,10 +5,6 @@ import * as actions from '../../actions';
 import './Round.css';
 
 export class Round extends Component {
-  constructor(props) {
-    super(props);
-  }
-
   handleClick = e => {
     e.preventDefault();
     const {

@@ -5,6 +5,10 @@
   font-size: 1rem;
 }
 
+.unselected {
+  opacity: 0.5;
+}
+
 .wrapper {
   width: 75%;
   margin: auto;
